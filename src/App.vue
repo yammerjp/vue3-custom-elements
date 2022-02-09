@@ -6,8 +6,8 @@
 
 <script lang="ts">
 import { Options, Vue } from "vue-class-component";
-import HelloWorld from "./components/HelloWorld.vue";
-import Parent from "./components/Parent.vue"
+import HelloWorld from "./components/HelloWorld.ce.vue";
+import Parent from "./components/Parent.ce.vue"
 
 @Options({
   components: {
